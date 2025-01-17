@@ -51,7 +51,7 @@ file-manager-api/
 
 
 ### API Endpoints
-GET /shopping-list: Retrieve the shopping list
-POST /shopping-list: Add a new item to the shopping list
-PUT /shopping-list: Update an existing item in the shopping list
-DELETE /shopping-list: Delete an item from the shopping list
+* GET /shopping-list: Retrieve the shopping list
+* POST /shopping-list: Add a new item to the shopping list
+* PUT /shopping-list: Update an existing item in the shopping list
+* DELETE /shopping-list: Delete an item from the shopping list
