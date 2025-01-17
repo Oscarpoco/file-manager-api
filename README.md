@@ -35,8 +35,8 @@ npm install
 
 Start the server:
 
-node app.js
-The server will run at http://localhost:3000.
+* node app.js
+* The server will run at http://localhost:3000.
 
 ### Project Structure
 
