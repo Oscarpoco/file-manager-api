@@ -23,7 +23,7 @@ Basic error handling and validation.
 ## Getting Started
 Clone the repository:
 
-* git clone https://github.com/oscarpoco/file-manager-shopping-list-api.git
+* git clone https://github.com/oscarpoco/file-manager-api.git
 
 Navigate to the project directory:
 
